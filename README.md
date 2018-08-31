@@ -1,6 +1,6 @@
 # dockerfile-neo-cli
 
-Very simple docker image to set up neo-cli in the Ubunut environment\
+Very simple docker image to set up neo-cli in the Ubuntu environment\
 To run this image, enter:
 ```
 docker run -it -d -p 10332:10332 ubuntu-neo-cli
